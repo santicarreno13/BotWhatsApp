@@ -1,0 +1,452 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: '1AFCEA2DE8CC9CBAC35D6A493EEE1A3C',
+    participant: undefined
+  },
+  messageTimestamp: 1677793415,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Yo c pero eres muy botsito',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Yo c pero eres muy botsito',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: '43DCFDA010E7FEADCACB9A74BB5C9BD6',
+    participant: undefined
+  },
+  messageTimestamp: 1677793428,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Xddddddd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Xddddddd',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: 'C73B0DBAAEB127ACE01D3034D9B39940',
+    participant: undefined
+  },
+  messageTimestamp: 1677793449,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Xd nooooo está de chill bro',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Xd nooooo está de chill bro',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: '14575F216994F42AE90191DAD019CB1D',
+    participant: undefined
+  },
+  messageTimestamp: 1677793473,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Xd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Xd',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: '20E38DDAF38D718CC60CB7198A0C27A2',
+    participant: undefined
+  },
+  messageTimestamp: 1677793481,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: '13DD274F5DCE2547B25F68D9059C6FFC',
+    participant: undefined
+  },
+  messageTimestamp: 1677793489,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Productos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Productos',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: 'FB159629D41965511E787A0CF5DCB734',
+    participant: undefined
+  },
+  messageTimestamp: 1677793493,
+  pushName: 'Trony',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: 'peluche',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: 'peluche',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: 'DCDC77C9FDD4D6473B2EE91E9A0C8324',
+    participant: undefined
+  },
+  messageTimestamp: 1677793502,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Comprar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Comprar',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: 'CC25C71E6AC9DEFA1046AD0DD0450B56',
+    participant: undefined
+  },
+  messageTimestamp: 1677793525,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Productos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Productos',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: 'FA08229C960DAC6843FB0B9A0D96E6F8',
+    participant: undefined
+  },
+  messageTimestamp: 1677793530,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Productos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Productos',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: 'F6281DE4D9F1744D504080575E92C285',
+    participant: undefined
+  },
+  messageTimestamp: 1677793535,
+  pushName: 'Trony',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: 'comida',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: 'comida',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: 'E1BAFD9B1EDE5A023DA69D475BA309D0',
+    participant: undefined
+  },
+  messageTimestamp: 1677793545,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Torta',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Torta',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: '3E6EAB059CA281BB72FEC9E7F4E3FF6A',
+    participant: undefined
+  },
+  messageTimestamp: 1677793560,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Comprar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Comprar',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: '3C556285F5F56FF02451790525B06257',
+    participant: undefined
+  },
+  messageTimestamp: 1677793575,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Grcias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Grcias',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: '06B2C809E1DA412B94C2578E6C236525',
+    participant: undefined
+  },
+  messageTimestamp: 1677793579,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Xd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Xd',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: '96D37E8E159685CC23465A6E6AF55C8C',
+    participant: undefined
+  },
+  messageTimestamp: 1677793582,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: 'D53A4C68DC0D9D72A27AEED23F2180A4',
+    participant: undefined
+  },
+  messageTimestamp: 1677793588,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: 'AE8C01D7018562C15853A22825EB9025',
+    participant: undefined
+  },
+  messageTimestamp: 1677793594,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Productos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Productos',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: '9416D44C733500389EE49F5ACEF38FAE',
+    participant: undefined
+  },
+  messageTimestamp: 1677793596,
+  pushName: 'Trony',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: 'comida',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: 'comida',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: '9DD9557B0F8A70FBE413ECB9746B18DF',
+    participant: undefined
+  },
+  messageTimestamp: 1677793607,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Malteada',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Malteada',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: 'A3674AC08899B2660669175EE28BD621',
+    participant: undefined
+  },
+  messageTimestamp: 1677793623,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Comprar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Comprar',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: '959099191F08323B427E3B2FEB350EFA',
+    participant: undefined
+  },
+  messageTimestamp: 1677793627,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '573054108656'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573054108656@s.whatsapp.net',
+    fromMe: false,
+    id: '2CE7D17B1E4E1CB4E7CBAB70AD5361A3',
+    participant: undefined
+  },
+  messageTimestamp: 1677793631,
+  pushName: 'Trony',
+  message: Message {
+    conversation: 'Chao',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Chao',
+  from: '573054108656'
+}
